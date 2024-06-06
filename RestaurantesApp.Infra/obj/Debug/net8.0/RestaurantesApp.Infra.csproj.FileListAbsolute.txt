@@ -10,3 +10,4 @@ C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\Resta
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestaurantesApp.Infra\obj\Debug\net8.0\RestaurantesApp.Infra.pdb
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestaurantesApp.Infra\obj\Debug\net8.0\ref\RestaurantesApp.Infra.dll
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestaurantesApp.Infra\obj\Debug\net8.0\RestaurantesApp.Infra.csproj.AssemblyReference.cache
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestaurantesApp.Infra\obj\Debug\net8.0\RestaurantesApp.Infra.sourcelink.json

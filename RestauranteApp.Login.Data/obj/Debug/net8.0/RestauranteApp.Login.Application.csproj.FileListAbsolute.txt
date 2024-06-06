@@ -1,0 +1,6 @@
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Data\obj\Debug\net8.0\RestauranteApp.Login.Application.csproj.AssemblyReference.cache
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Data\obj\Debug\net8.0\RestauranteApp.Login.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Data\obj\Debug\net8.0\RestauranteApp.Login.Application.AssemblyInfoInputs.cache
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Data\obj\Debug\net8.0\RestauranteApp.Login.Application.AssemblyInfo.cs
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Data\obj\Debug\net8.0\RestauranteApp.Login.Application.csproj.CoreCompileInputs.cache
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Data\obj\Debug\net8.0\RestauranteApp.Login.Application.sourcelink.json

@@ -16,10 +16,11 @@ namespace RestaurantesApp.Controllers
         {
             _funcionariosRepository = funcionariosRepository;
         }
-
+        [HttpGet]
         public ActionResult Get() {
             return Ok(_funcionariosRepository.GetAll());
         }
+        [HttpGet("{id}")]
         public ActionResult GetById(int id) {
             var funcionario = _funcionariosRepository.GetById(id);
             if (funcionario == null)
@@ -28,10 +29,12 @@ namespace RestaurantesApp.Controllers
             }
             return Ok(funcionario);
         }
+        [HttpPost]
         public ActionResult Post(Funcionarios funcionario) {
             _funcionariosRepository.Add(funcionario);
             return CreatedAtAction(nameof(GetById), new { id = funcionario.Id }, funcionario);
         }
+        [HttpPut("{id}")]
         public ActionResult Put(int id, Funcionarios funcionario) {
             var existingFuncionario = _funcionariosRepository.GetById(id);
             if (existingFuncionario == null) {
@@ -41,6 +44,7 @@ namespace RestaurantesApp.Controllers
             _funcionariosRepository.Update(funcionario);
             return NoContent();
         }
+        [HttpDelete("{id}")]
         public ActionResult Delete(int id) {
             var funcionario = _funcionariosRepository.GetById(id);
             if (funcionario == null) {

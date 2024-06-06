@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KU3LKef2tPOpKwETU9h3zANw0vKzufTc2q/Ys+F+WwM=",
+  "Source": "RestauranteApp.API.Login",
+  "BasePath": "_content/RestauranteApp.API.Login",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

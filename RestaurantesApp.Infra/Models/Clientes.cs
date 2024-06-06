@@ -1,7 +1,10 @@
-﻿namespace RestaurantesApp.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace RestaurantesApp.Models
 {
     public class Clientes
     {
+        [Key]
         public int Id { get; set; }
         public string? Nome { get; set; }
         public string? CPF { get; set; }
@@ -14,6 +17,8 @@
         public string Cidade { get; set; }
         public string Estado { get; set; }
         public string CEP { get; set; }
+
+        public ICollection<Pedidos>? Pedidos { get; set; }
 
     }
 }

@@ -13,6 +13,11 @@ namespace RestaurantesApp.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<Pedidos>()
+                .HasOne(p => p.Cliente)
+                .WithMany(c => c.Pedidos)
+                .HasForeignKey(p => p.IdCliente);
+
             base.OnModelCreating(modelBuilder);
        
         }

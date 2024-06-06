@@ -137,20 +137,17 @@ namespace RestaurantesApp.Migrations
 
             modelBuilder.Entity("RestaurantesApp.Models.Pedidos", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int>("IdPedido")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("integer");
 
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("IdPedido"));
 
                     b.Property<string>("CEP")
                         .HasColumnType("text");
 
                     b.Property<string>("Cidade")
                         .HasColumnType("text");
-
-                    b.Property<int>("ClienteId")
-                        .HasColumnType("integer");
 
                     b.Property<string>("Complemento")
                         .HasColumnType("text");
@@ -170,7 +167,7 @@ namespace RestaurantesApp.Migrations
                     b.Property<string>("FormaPagamento")
                         .HasColumnType("text");
 
-                    b.Property<int>("IdCliente")
+                    b.Property<int?>("IdCliente")
                         .HasColumnType("integer");
 
                     b.Property<string>("Numero")
@@ -182,9 +179,9 @@ namespace RestaurantesApp.Migrations
                     b.Property<string>("Status")
                         .HasColumnType("text");
 
-                    b.HasKey("Id");
+                    b.HasKey("IdPedido");
 
-                    b.HasIndex("ClienteId");
+                    b.HasIndex("IdCliente");
 
                     b.ToTable("Pedidos");
                 });
@@ -192,12 +189,15 @@ namespace RestaurantesApp.Migrations
             modelBuilder.Entity("RestaurantesApp.Models.Pedidos", b =>
                 {
                     b.HasOne("RestaurantesApp.Models.Clientes", "Cliente")
-                        .WithMany()
-                        .HasForeignKey("ClienteId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .WithMany("Pedidos")
+                        .HasForeignKey("IdCliente");
 
                     b.Navigation("Cliente");
+                });
+
+            modelBuilder.Entity("RestaurantesApp.Models.Clientes", b =>
+                {
+                    b.Navigation("Pedidos");
                 });
 #pragma warning restore 612, 618
         }

@@ -1,0 +1,15 @@
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Data\bin\Debug\net8.0\RestauranteApp.Login.Data.exe
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Data\bin\Debug\net8.0\RestauranteApp.Login.Data.deps.json
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Data\bin\Debug\net8.0\RestauranteApp.Login.Data.runtimeconfig.json
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Data\bin\Debug\net8.0\RestauranteApp.Login.Data.dll
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Data\bin\Debug\net8.0\RestauranteApp.Login.Data.pdb
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Data\obj\Debug\net8.0\RestauranteApp.Login.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Data\obj\Debug\net8.0\RestauranteApp.Login.Data.AssemblyInfoInputs.cache
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Data\obj\Debug\net8.0\RestauranteApp.Login.Data.AssemblyInfo.cs
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Data\obj\Debug\net8.0\RestauranteApp.Login.Data.csproj.CoreCompileInputs.cache
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Data\obj\Debug\net8.0\RestauranteApp.Login.Data.sourcelink.json
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Data\obj\Debug\net8.0\RestauranteApp.Login.Data.dll
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Data\obj\Debug\net8.0\refint\RestauranteApp.Login.Data.dll
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Data\obj\Debug\net8.0\RestauranteApp.Login.Data.pdb
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Data\obj\Debug\net8.0\RestauranteApp.Login.Data.genruntimeconfig.cache
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Data\obj\Debug\net8.0\ref\RestauranteApp.Login.Data.dll

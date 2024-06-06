@@ -13,3 +13,4 @@ C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\Resta
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Application\obj\Debug\net8.0\refint\RestauranteApp.Application.dll
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Application\obj\Debug\net8.0\RestauranteApp.Application.pdb
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Application\obj\Debug\net8.0\ref\RestauranteApp.Application.dll
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Application\obj\Debug\net8.0\RestauranteApp.Application.sourcelink.json

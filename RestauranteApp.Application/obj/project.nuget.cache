@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "u2EzOVuwCQo=",
+  "dgSpecHash": "mU5TOx3S6JQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\iport-dev\\Downloads\\RestaurantesApp-master\\RestaurantesApp-master\\RestauranteApp.Application\\RestauranteApp.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\iport-dev\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\iport-dev\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.6\\microsoft.entityframeworkcore.8.0.6.nupkg.sha512",
     "C:\\Users\\iport-dev\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.6\\microsoft.entityframeworkcore.abstractions.8.0.6.nupkg.sha512",
     "C:\\Users\\iport-dev\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.6\\microsoft.entityframeworkcore.analyzers.8.0.6.nupkg.sha512",

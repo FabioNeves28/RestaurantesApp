@@ -1,8 +1,13 @@
-﻿namespace RestaurantesApp.Models
+﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace RestaurantesApp.Models
 {
     public class Pedidos
     {
-        public int Id { get; set; }
+        [Key]
+        public int IdPedido { get; set; }
         public int IdCliente { get; set; }
         public string? Status { get; set; }
         public string? FormaPagamento { get; set; }
@@ -15,8 +20,8 @@
         public string? Observacoes { get; set; }
         public string? DataPedido { get; set; }
         public string? DataEntrega { get; set; }
-
-        public Clientes Cliente { get; set; }
+        [ForeignKey("IdCliente")]
+        public Clientes? Cliente { get; set; }
 
 
 
