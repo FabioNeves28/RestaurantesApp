@@ -2,6 +2,8 @@ C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\Resta
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Infra\bin\Debug\net8.0\RestauranteApp.Login.Infra.runtimeconfig.json
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Infra\bin\Debug\net8.0\RestauranteApp.Login.Infra.dll
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Infra\bin\Debug\net8.0\RestauranteApp.Login.Infra.pdb
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Infra\bin\Debug\net8.0\RestaurantesApp.Infra.dll
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Infra\bin\Debug\net8.0\RestaurantesApp.Infra.pdb
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Infra\obj\Debug\net8.0\RestauranteApp.Login.Infra.csproj.AssemblyReference.cache
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Infra\obj\Debug\net8.0\RestauranteApp.Login.Infra.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Infra\obj\Debug\net8.0\RestauranteApp.Login.Infra.AssemblyInfoInputs.cache
@@ -14,5 +16,3 @@ C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\Resta
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Infra\obj\Debug\net8.0\RestauranteApp.Login.Infra.pdb
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Infra\obj\Debug\net8.0\RestauranteApp.Login.Infra.genruntimeconfig.cache
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Infra\obj\Debug\net8.0\ref\RestauranteApp.Login.Infra.dll
-C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Infra\bin\Debug\net8.0\RestaurantesApp.Infra.dll
-C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Login.Infra\bin\Debug\net8.0\RestaurantesApp.Infra.pdb

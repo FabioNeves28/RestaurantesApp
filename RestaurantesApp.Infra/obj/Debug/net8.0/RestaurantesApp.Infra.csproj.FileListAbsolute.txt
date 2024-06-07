@@ -1,13 +1,13 @@
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestaurantesApp.Infra\bin\Debug\net8.0\RestaurantesApp.Infra.deps.json
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestaurantesApp.Infra\bin\Debug\net8.0\RestaurantesApp.Infra.dll
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestaurantesApp.Infra\bin\Debug\net8.0\RestaurantesApp.Infra.pdb
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestaurantesApp.Infra\obj\Debug\net8.0\RestaurantesApp.Infra.csproj.AssemblyReference.cache
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestaurantesApp.Infra\obj\Debug\net8.0\RestaurantesApp.Infra.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestaurantesApp.Infra\obj\Debug\net8.0\RestaurantesApp.Infra.AssemblyInfoInputs.cache
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestaurantesApp.Infra\obj\Debug\net8.0\RestaurantesApp.Infra.AssemblyInfo.cs
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestaurantesApp.Infra\obj\Debug\net8.0\RestaurantesApp.Infra.csproj.CoreCompileInputs.cache
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestaurantesApp.Infra\obj\Debug\net8.0\RestaurantesApp.Infra.sourcelink.json
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestaurantesApp.Infra\obj\Debug\net8.0\RestaurantesApp.Infra.dll
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestaurantesApp.Infra\obj\Debug\net8.0\refint\RestaurantesApp.Infra.dll
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestaurantesApp.Infra\obj\Debug\net8.0\RestaurantesApp.Infra.pdb
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestaurantesApp.Infra\obj\Debug\net8.0\ref\RestaurantesApp.Infra.dll
-C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestaurantesApp.Infra\obj\Debug\net8.0\RestaurantesApp.Infra.csproj.AssemblyReference.cache
-C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestaurantesApp.Infra\obj\Debug\net8.0\RestaurantesApp.Infra.sourcelink.json

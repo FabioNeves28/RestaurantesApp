@@ -8,9 +8,9 @@ C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\Resta
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Application\obj\Debug\net8.0\RestauranteApp.Application.AssemblyInfoInputs.cache
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Application\obj\Debug\net8.0\RestauranteApp.Application.AssemblyInfo.cs
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Application\obj\Debug\net8.0\RestauranteApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Application\obj\Debug\net8.0\RestauranteApp.Application.sourcelink.json
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Application\obj\Debug\net8.0\Restaura.51EBBC42.Up2Date
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Application\obj\Debug\net8.0\RestauranteApp.Application.dll
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Application\obj\Debug\net8.0\refint\RestauranteApp.Application.dll
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Application\obj\Debug\net8.0\RestauranteApp.Application.pdb
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Application\obj\Debug\net8.0\ref\RestauranteApp.Application.dll
-C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.Application\obj\Debug\net8.0\RestauranteApp.Application.sourcelink.json
