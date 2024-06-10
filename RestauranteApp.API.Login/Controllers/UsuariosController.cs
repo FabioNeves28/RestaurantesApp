@@ -1,4 +1,5 @@
 ﻿using BCrypt.Net;
+using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
 using RestauranteApp.Login.Infra.Models;
 using RestaurantesApp.Login.Application.Repo;
@@ -52,8 +53,6 @@ namespace RestauranteApp.API.Login.Controllers
             {
                 return NotFound();
             }
-
-            // Manter a senha original se não for alterada
             if (!string.IsNullOrEmpty(usuario.Senha))
             {
                 usuario.Senha = BCrypt.Net.BCrypt.HashPassword(usuario.Senha);
@@ -78,6 +77,17 @@ namespace RestauranteApp.API.Login.Controllers
             }
             _usuariosRepository.Delete(usuario);
             return NoContent();
+        }
+        [HttpPost("login")]
+        public IActionResult Login(Usuarios loginRequest)
+        {
+            var usuario = _usuariosRepository.GetByEmail(loginRequest.Email);
+            if (usuario == null || !BCrypt.Net.BCrypt.Verify(loginRequest.Senha, usuario.Senha))
+            {
+                return Unauthorized("Usuário ou senha inválidos");
+            }
+
+            return Ok("Logado com sucesso");
         }
     }
 }

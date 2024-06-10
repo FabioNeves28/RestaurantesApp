@@ -1,11 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using RestauranteApp.Login.Infra.Exceptions;
 using RestauranteApp.Login.Infra.Models;
 using RestaurantesApp.Data;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Net;
 
 namespace RestaurantesApp.Login.Application.Repo
 {
@@ -31,6 +28,7 @@ namespace RestaurantesApp.Login.Application.Repo
         }
         public Usuarios GetById(int id)
         {
+
             return _loginContext.Usuarios.AsNoTracking().FirstOrDefault(c => c.Id == id);
         }
 
@@ -40,11 +38,21 @@ namespace RestaurantesApp.Login.Application.Repo
             _loginContext.Usuarios.Remove(usuario);
             _loginContext.SaveChanges();
         }
-        
+
         public Usuarios GetByEmail(string email)
         {
-            return _loginContext.Usuarios.SingleOrDefault(u => u.Email.Equals(email, StringComparison.OrdinalIgnoreCase));
+            try
+            {
+                return _loginContext.Usuarios.AsEnumerable().SingleOrDefault(u => u.Email.Equals(email, StringComparison.OrdinalIgnoreCase));
+
+            }
+            catch (DbUpdateException ex)
+            {
+             
+                throw new HttpStatusCodeException(HttpStatusCode.InternalServerError, "An error occurred while adding the user.", ex);
+            }
         }
+
 
 
 

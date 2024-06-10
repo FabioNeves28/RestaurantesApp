@@ -1,6 +1,4 @@
-using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.IdentityModel.Tokens;
 using RestauranteApp.Application.Interfaces.Cliente;
 using RestauranteApp.Application.Interfaces.Funcionario;
 using RestauranteApp.Application.Interfaces.Pedido;
@@ -8,8 +6,6 @@ using RestauranteApp.Application.Repositories.Cliente;
 using RestauranteApp.Application.Repositories.Funcionario;
 using RestauranteApp.Application.Repositories.Pedido;
 using RestaurantesApp.Data;
-using RestaurantesApp.Models;
-using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 

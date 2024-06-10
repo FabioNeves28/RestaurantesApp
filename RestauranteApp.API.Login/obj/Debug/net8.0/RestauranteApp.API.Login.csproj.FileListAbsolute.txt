@@ -115,3 +115,17 @@ C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\Resta
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.API.Login\obj\Debug\net8.0\RestauranteApp.API.Login.pdb
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.API.Login\obj\Debug\net8.0\RestauranteApp.API.Login.genruntimeconfig.cache
 C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.API.Login\obj\Debug\net8.0\ref\RestauranteApp.API.Login.dll
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.API.Login\bin\Debug\net8.0\itext.barcodes.dll
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.API.Login\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.API.Login\bin\Debug\net8.0\itext.forms.dll
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.API.Login\bin\Debug\net8.0\itext.io.dll
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.API.Login\bin\Debug\net8.0\itext.kernel.dll
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.API.Login\bin\Debug\net8.0\itext.layout.dll
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.API.Login\bin\Debug\net8.0\itext.pdfa.dll
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.API.Login\bin\Debug\net8.0\itext.pdfua.dll
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.API.Login\bin\Debug\net8.0\itext.sign.dll
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.API.Login\bin\Debug\net8.0\itext.styledxmlparser.dll
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.API.Login\bin\Debug\net8.0\itext.svg.dll
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.API.Login\bin\Debug\net8.0\itext.commons.dll
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.API.Login\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\iport-dev\Downloads\RestaurantesApp-master\RestaurantesApp-master\RestauranteApp.API.Login\bin\Debug\net8.0\Newtonsoft.Json.dll

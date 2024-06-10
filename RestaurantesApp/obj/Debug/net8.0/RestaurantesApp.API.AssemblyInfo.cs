@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RestaurantesApp.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1278a9afe67c7b285049fd9507a9516e99585d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87c9897e4651e54dd31b8cf5b9043c63f8bc9bc4")]
 [assembly: System.Reflection.AssemblyProductAttribute("RestaurantesApp.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RestaurantesApp.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
